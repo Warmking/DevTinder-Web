@@ -19,4 +19,5 @@
 - I am going to use the redux for the state management tool
 - Install react-redux and @reduxjs/toolkit 
 - Store - > configureStore and createSlice and wrape it on App.js with provider
- 
+- Prevent the routing to different URLs without login
+- Implemented the login and logout 
